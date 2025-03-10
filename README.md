@@ -1,0 +1,1 @@
+# WST-TestManagement-Konstantine.stice
